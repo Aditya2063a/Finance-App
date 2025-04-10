@@ -1,3 +1,3 @@
 # Finance_App
 
-## Deploy Link = https://financealy.netlify.app/
+#### Deploy Link: https://financealy.netlify.app/
